@@ -1,4 +1,4 @@
-# 4-bit-Ripple-Carry-Adder-using-Task-and-4-bit-Ripple-Counter-using-Function-with-Testbench
+![385810369-b5a31a1e-696d-4304-81f5-d183a937735a](https://github.com/user-attachments/assets/048ca6f8-8b33-4a9c-b51b-b5d0a0634d01)# 4-bit-Ripple-Carry-Adder-using-Task-and-4-bit-Ripple-Counter-using-Function-with-Testbench
 ## Aim:
 To design and simulate a 4-bit Ripple Carry Adder using Verilog HDL with a task to implement the full adder functionality and verify its output using a testbench.
 To design and simulate a 4-bit Ripple Counter using Verilog HDL with a function to calculate the next state and verify its functionality using a testbench.
@@ -7,7 +7,7 @@ To design and simulate a 4-bit Ripple Counter using Verilog HDL with a function 
 Computer with Vivado or any Verilog simulation software.
 Verilog HDL compiler.
 
-## verilog code for 4-bit ripple carry adder;
+## verilog code for 4-bit ripple carry adder:
 ```
 module ripple_adders (
     input [3:0] A, 
@@ -76,7 +76,8 @@ module ripple_adder_tb;
     end
 endmodule
 ```
-OUTPUT:![385685013-2f922b86-56a7-4581-a399-0502974fd477](https://github.com/user-attachments/assets/b5a31a1e-696d-4304-81f5-d183a937735a)
+OUTPUT:![385810369-b5a31a1e-696d-4304-81f5-d183a937735a](https://github.com/user-attachments/assets/2975c809-4264-4aea-b87e-00d2852b2729)
+
 
 ## verilog code for 4-bit ripple counter:
 ```
@@ -140,7 +141,8 @@ end
 
 endmodule
 ```
-OUTPUT:![385688398-6efadb71-92bc-44d7-b99a-1e61ed494c36](https://github.com/user-attachments/assets/6c5d65db-38d0-423f-aba9-42970d5dc780)
+OUTPUT:![385811255-6c5d65db-38d0-423f-aba9-42970d5dc780](https://github.com/user-attachments/assets/3c102f86-a43b-4a6d-ac38-448f058b04a7)
+
 
 
 Conclusion:
