@@ -1,4 +1,3 @@
-![385810369-b5a31a1e-696d-4304-81f5-d183a937735a](https://github.com/user-attachments/assets/048ca6f8-8b33-4a9c-b51b-b5d0a0634d01)# 4-bit-Ripple-Carry-Adder-using-Task-and-4-bit-Ripple-Counter-using-Function-with-Testbench
 ## Aim:
 To design and simulate a 4-bit Ripple Carry Adder using Verilog HDL with a task to implement the full adder functionality and verify its output using a testbench.
 To design and simulate a 4-bit Ripple Counter using Verilog HDL with a function to calculate the next state and verify its functionality using a testbench.
